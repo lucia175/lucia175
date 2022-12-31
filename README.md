@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lucia Njemanze
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning CSS and Python
-- 📫 How to reach me; lucianje05@gmail.com
+- 🌱 I’m currently learning CSS, HTML and Python
+- 📫 How to reach me; lucianjemanze@gmail.com
 
 <!---
 lucia175/lucia175 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
