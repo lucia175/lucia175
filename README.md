@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Lucia Njemanze
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning CSS, HTML and Python
 - 📫 How to reach me; lucianjemanze@gmail.com
 
 <!---
