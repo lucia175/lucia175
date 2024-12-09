@@ -1,5 +1,5 @@
 ### Hello!👋
-I am a computer science student skilled in Python, Java, C, CSS, and HTML, specializing in web design and interfaces. I enjoy art museums and tracking design trends, aiming to succeed in creative settings.
+I am a computer science student skilled in Python, Java, C, CSS, and HTML, specializing in software engineering and web design. I enjoy art museums and tracking design trends, aiming to succeed in creative settings.
 
 <!-- Level 1: Sample bio and stats
 **lucia175/lucia175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
