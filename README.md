@@ -3,7 +3,6 @@ I am a computer science student skilled in Python, Java, C, CSS, and HTML, speci
 
 <!-- Level 1: Sample bio and stats
 **lucia175/lucia175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Tech Stack
+- **Programming Languages:** Python, Java, C, HTML, CSS, JavaScript
+- **Libraries & Frameworks:** sci-kit-learn, Pandas, NumPy, matplotlib, React
+- **Development Tools:** Visual Studio Code, Jupyter Notebooks, Google Colab, Replit, CodePen
+- **Version Control:** Git, GitHub
 <!-- git hub stats card -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucia175&show_icons=true&theme=rose)
 
