@@ -1,6 +1,7 @@
-## Hi there 👋
+### Hello!👋
+I am a computer science student skilled in Python, Java, C, CSS, and HTML, specializing in web design and interfaces. I enjoy art museums and tracking design trends, aiming to succeed in creative settings.
 
-<!--
+<!-- Level 1: Sample bio and stats
 **lucia175/lucia175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+<!-- git hub stats card -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucia175&show_icons=true&theme=rose)
+
+<!-- git hub readme card 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucia175&show_icons=true&theme=midnight-purple&repo=github-readme-stats)](https://github.com/lucia175/github-readme-stats)
 -->
